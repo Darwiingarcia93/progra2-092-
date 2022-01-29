@@ -1,0 +1,13 @@
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\bin\Debug\201700655_tienda.exe.config
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\bin\Debug\201700655_tienda.exe
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\bin\Debug\201700655_tienda.pdb
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\bin\Debug\201700655_tienda.xml
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.vbproj.AssemblyReference.cache
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\_201700655_tienda.Form1.resources
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\_201700655_tienda.Resources.resources
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.vbproj.GenerateResource.cache
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.vbproj.CoreCompileInputs.cache
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.exe
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.xml
+C:\Users\darwin\Desktop\VISUAL BASIC\201700655_Tarea2\201700655_tienda\201700655_tienda\obj\Debug\201700655_tienda.pdb
