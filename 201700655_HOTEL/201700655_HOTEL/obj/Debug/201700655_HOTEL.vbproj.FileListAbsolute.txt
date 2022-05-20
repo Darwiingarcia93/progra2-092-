@@ -1,0 +1,20 @@
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\bin\Debug\201700655_HOTEL.exe.config
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\bin\Debug\201700655_HOTEL.exe
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\bin\Debug\201700655_HOTEL.pdb
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\bin\Debug\201700655_HOTEL.xml
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.AssemblyReference.cache
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\_201700655_HOTEL.Form1.resources
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\_201700655_HOTEL.Resources.resources
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.GenerateResource.cache
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.exe
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.xml
+C:\Users\rodri\Documents\2do semestre 2021\Programación 2\Magistral\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.pdb
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.AssemblyReference.cache
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\_201700655_HOTEL.Form1.resources
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.vbproj.GenerateResource.cache
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.exe
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.xml
+C:\Users\dgarcia\OneDrive - Spectrum\Desktop\201700655_HOTEL\201700655_HOTEL\obj\Debug\201700655_HOTEL.pdb
